@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1469820058182762713}
   m_Layer: 0
   m_Name: SquareVert 1
-  m_TagString: Untagged
+  m_TagString: OBS
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

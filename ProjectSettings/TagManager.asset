@@ -6,6 +6,14 @@ TagManager:
   tags:
   - PanelPause
   - time
+  - Ball
+  - Fire
+  - OBS
+  - mur
+  - Score
+  - GameOver
+  - ScoreTag
+  - Settings
   layers:
   - Default
   - TransparentFX
